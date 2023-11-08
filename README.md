@@ -6,7 +6,7 @@ Comisión 23544
 Se deberá crear una base de datos llamada “integrador_cac” y crear la siguiente tabla llamada “oradores”:
 
 
-<img src=".formato_tabla.png" width="50%" height="50%">
+<img src="./formato_tabla.png" width="50%" height="50%">
 
 Definir los tipos de datos correspondientes
 Definir la clave primaria correspondiente
